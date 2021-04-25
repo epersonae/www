@@ -12,12 +12,30 @@ A style guide can be something as simple as a list of decisions you've made abou
 
 You can certainly create a style guide of your own. For the sake of simplicity, this approach might work if you're a lone writer or just starting a small docs group. But neither software nor its documentation operates in a vacuum, so it's a good idea to consult other resources as well. Working from an existing style guide can also help you figure out which things matter in your style guide.
 
-## Style guide resources
+### How-to articles for writing a style guide
+
+- [Creative Blog — Create a website style guide](http://www.creativebloq.com/design/create-website-style-guide-6123030)
+- [Gather Content — Developing a Content style guide](http://blog.gathercontent.com/tone-of-voice-guide)
+- [HubSpot — How to Create a Writing style guide Built for the Web](http://blog.hubspot.com/blog/tabid/6307/bid/31247/The-Simple-Template-for-a-Thorough-Content-Style-Guide.aspx)
+- [Meet Content — Editorial Style for the Web](http://meetcontent.com/blog/elements-of-editorial-style-for-the-web/)
+- [Stanford — Creating a web style guide](https://swsblog.stanford.edu/blog/creating-web-style-guide-cardinal-work)
+- [Techwhirl – Developing a Style Guide for Technical Publications](http://techwhirl.com/developing-a-departmental-style-guide/)
+
+## Writing Style
+
+The following style guides focus on writing more generally:
+
+- [The Sense of Style](https://stevenpinker.com/publications/sense-style-thinking-persons-guide-writing-21st-century)
+- [Stylish Academic Writing](https://www.hup.harvard.edu/catalog.php?isbn=9780674064485)
+
+## Traditional writing style guide resources
 
 Style guides have been around for as long as people have been publishing in any format. Older style guides originally intended for specific forms of print publication have become basic standards for many others to refer to, including documentarians:
 
 - The [Chicago Manual of Style](http://www.chicagomanualofstyle.org/book/ed17/frontmatter/toc.html)
 - The [AP Stylebook](https://www.apstylebook.com/)
+
+
 
 Classics for software documentation include:
 
@@ -34,6 +52,15 @@ Others you might find useful:
 - [18F Content Guide](https://content-guide.18f.gov)
 - [Open SUSE Style Guide](https://documentation.suse.com/style/current/single-html/docu_styleguide/)
 - [gnome Style Guide](https://developer.gnome.org/gdp-style-guide/2.32/gdp-style-guide.html)
+- [Mailchimp's Voice and Tone guidelines](https://styleguide.mailchimp.com/voice-and-tone/)
+
+
+ 
+https://designsystem.quickbooks.com/content/
+https://contentdesign.intuit.com/
+https://spectrum.adobe.com/page/grammar-and-mechanics/
+https://communications.princeton.edu/guides-tools/princeton-editorial-style-guide
+https://www.gov.uk/guidance/content-design/writing-for-gov-uk
 
 ## Thinking about accessibility and bias
 
@@ -190,22 +217,4 @@ Related talks:
 
 ### Concepts, Overview
 
-## Writing Style
 
-The following style guides focus on writing more generally:
-
-- [The Sense of Style](https://stevenpinker.com/publications/sense-style-thinking-persons-guide-writing-21st-century)
-- [Stylish Academic Writing](https://www.hup.harvard.edu/catalog.php?isbn=9780674064485)
-- [Mailchimp's Voice and Tone guidelines](https://styleguide.mailchimp.com/voice-and-tone/)
-
-## Other style resources
-
-Rather than reinvent the wheel, here are some resources curated by [Ivan Walsh](http://www.ihearttechnicalwriting.com/style-guide-technical-writing/) (Kudos!):
-
-- [Creative Blog — Create a website style guide](http://www.creativebloq.com/design/create-website-style-guide-6123030)
-- [Gather Content — Developing a Content style guide](http://blog.gathercontent.com/tone-of-voice-guide)
-- [HubSpot — How to Create a Writing style guide Built for the Web](http://blog.hubspot.com/blog/tabid/6307/bid/31247/The-Simple-Template-for-a-Thorough-Content-Style-Guide.aspx)
-- [Meet Content — Editorial Style for the Web](http://meetcontent.com/blog/elements-of-editorial-style-for-the-web/)
-- [Stanford — Creating a web style guide](https://swsblog.stanford.edu/blog/creating-web-style-guide-cardinal-work)
-- [Techwhirl – Developing a Style Guide for Technical Publications](http://techwhirl.com/developing-a-departmental-style-guide/)
-- [UCR — Writing for the Web, Content Guidelines](http://cms.ucr.edu/writing_web_content.html)
